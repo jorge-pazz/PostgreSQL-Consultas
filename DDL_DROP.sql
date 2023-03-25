@@ -1,3 +1,8 @@
--- DROP
+-- DROP TABLE
 
 DROP TABLE produtos;
+
+-- DROP DATABASE
+
+DROP DATABASE loja;
+
