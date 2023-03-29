@@ -1,0 +1,12 @@
+-- BEGIN TRANSACTION
+
+BEGIN TRANSACTION;
+
+INSERT INTO tipos_produtos (descricao) VALUES ('Veiculos');
+
+-- COMMIT
+COMMIT;
+
+
+--ROLLBAK
+ROLLBACK
